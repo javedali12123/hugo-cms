@@ -1,27 +1,16 @@
 ---
-title: "Ali Javed"
-subtitle: Philosopher | Economist | Philosophy of Mind | Philosophy of Physics | Philosophy of Science | Philosophy of Religion
-image: /img/home-jumbotron.jpg
+title: Profile
+subtitle: Resume | Research Interests | Skills
+image: /img/info-q.jpg
 blurb:
-    heading: Student, Public Speaker, and Writer
-    text: "A postgraduate in Economics from Jamia Millia Islamia. Previously studied Philosophy, Politics and Economics in bachelors from Amity University. Intrigued by problems of epistemology, uncertainty, expectations theory and philosophy of science & religion. Working on the intersection of philosophy, physics, economics, politics and psychology in pursuit of a unified epistemology. Also holds interest in Machine Learning and General Artificial Intelligence."
+  heading: Education
+  text: |
+    MA Economics, Jamia Millia Islamia, Delhi India
 intro:
-    heading: "Research Interests"
-    text: "Philosophic Calculus – Proposed Unification of Epistemology"
-
-"1. Unified epistemic framework for human thought - Philosophic Calculus."
-"2. The concept of Space and Time - Objective as well as Subjective."
-"3. Formation of biases through a process I call Epistemic Gravity."
-"4. Theoretical relationship between relative ideologies formalized under Relative Expectations Integral."
-"5. Bounds to knowledge"
-"6. Use of differential geometry (Einstein Field Equations) to model paradigms under the framework of Philosophic Calculus."
-"7. A perspective on the implication on philosophy of science (especially Quantum Information Theory & String Theory) and philosophy of religion (especially the idea of God)."
-products:
-    - image: img/calculus-1.jpg
-      text: ""
-    - image: /img/
-      text: ""
+  heading: ''
+  text: ''
+products: []
 values:
-    heading:
-    text: 
+  heading: Thinker
 ---
+
