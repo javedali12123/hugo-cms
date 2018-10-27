@@ -16,11 +16,9 @@ What we need to build now is the theory for relationship between most fundamenta
 
 Philosophic calculus is therefore the qualitative space-time of all the possible thought processes and ideologies that are possible within the framework of human thought. Now the relevant question is that whether each and every human being occupies or has the potential to occupy the complete set of all positions on the Philosophic Calculus. The answer to this question requires a bit of neuroscience. If the answer is to be given philosophically, then the answer is no. Although even through neuro-scientific evidence we reach the same conclusions, but, we focus first on the philosophic argument. Philosophically speaking, every individual is subject to three notions of space-time\[1], one of which is purely objective, while the other two are subjective in nature. They are as follows
 
-The qualitative space-time of inner thoughts of every individual (First-person perspective).
-
-The qualitative space-time of thoughts of humans as a collective (Second-person perspective).
-
-The objective space-time of which all the qualitative space-times are but incomplete products (Third-person perspective).
+1. The qualitative space-time of inner thoughts of every individual (_First-person perspective_).
+2. The qualitative space-time of thoughts of humans as a collective (_Second-person perspective_).
+3. The objective space-time of which all the qualitative space-times are but incomplete products (_Third-person perspective_).
 
 The size of complete sets of all the three space-time is not the same. This is due to the assumption of limits to human knowledge and ‘Gödel’s Incompleteness Theorems’. If the power set of objective space-time is represented by P(S_O) the power set of qualitative collective space-time of humans by P(S_C) and the power set of qualitative individual space-time by P(S_I), then the following relationship exists between the three.
 
