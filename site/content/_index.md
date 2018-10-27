@@ -1,13 +1,21 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Ali Javed"
+subtitle: Philosopher | Economist | Philosophy of Mind | Philosophy of Physics | Philosophy of Science | Philosophy of Religion
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Student, Public Speaker, and Writer
+    text: "A postgraduate in Economics from Jamia Millia Islamia. Previously studied Philosophy, Politics and Economics in bachelors from Amity University. Intrigued by problems of epistemology, uncertainty, expectations theory and philosophy of science & religion. Working on the intersection of philosophy, physics, economics, politics and psychology in pursuit of a unified epistemology. Also holds interest in Machine Learning and General Artificial Intelligence."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Research Interests"
+    text: "Philosophic Calculus – Proposed Unification of Epistemology
+• Unified epistemic framework for human thought - Philosophic Calculus.
+• The concept of Space and Time - Objective as well as Subjective.
+• Formation of biases through a process I call Epistemic Gravity.
+• Theoretical relationship between relative ideologies formalized under Relative Expectations Integral.
+• Bounds to knowledge
+• Use of differential geometry (Einstein Field Equations) to model paradigms under the framework of Philosophic Calculus.
+• A perspective on the implication on philosophy of science (especially Quantum Information Theory & String Theory) and philosophy of
+religion (especially the idea of God)."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
@@ -17,4 +25,3 @@ values:
     heading: Our values
     text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
 ---
-
