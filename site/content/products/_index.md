@@ -5,6 +5,8 @@ heading: Education
 description: >-
   (MA Economics, Jamia Millia Islamia, Delhi, India) (BA Philosophy, Politics &
   Economics, Amity University, Uttar Pradesh, India)
+description: (BA Philosophy, Politics &
+Economics, Amity University, Uttar Pradesh, India)
 intro:
   blurbs:
     - image: ''
@@ -89,4 +91,3 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
