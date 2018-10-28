@@ -16,24 +16,6 @@ blurb:
     Intelligence.
 intro:
 <<<<<<< HEAD
-    heading: "Research Interests"
-    text: "Philosophic Calculus – Proposed Unification of Epistemology"
-
-"1. Unified epistemic framework for human thought - Philosophic Calculus."
-"2. The concept of Space and Time - Objective as well as Subjective."
-"3. Formation of biases through a process I call Epistemic Gravity."
-"4. Theoretical relationship between relative ideologies formalized under Relative Expectations Integral." 
-"5. Bounds to knowledge"
-"6. Use of differential geometry (Einstein Field Equations) to model paradigms under the framework of Philosophic Calculus."
-"7. A perspective on the implication on philosophy of science (especially Quantum Information Theory & String Theory) and philosophy of religion (especially the idea of God)."
-products:
-    - image: img/calculus-1.jpg
-      text: ""
-    - image: /img/
-      text: ""
-values:
-    heading:
-    text:
 =======
   heading: Research Interests
   text: >-
@@ -47,4 +29,3 @@ values:
   heading: Skills
 >>>>>>> 8797c2bf60642bc5f99c582bebe9de208aa28449
 ---
-
