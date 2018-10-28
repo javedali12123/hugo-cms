@@ -3,11 +3,11 @@ title: Contact
 logo: /img/logo-ali-1.png
 contact_entries:
   - heading: Location
-    text: '3153 Lynn Avenue, South San Francisco, California 94080'
-  - heading: Working hours
-    text: 'Monday – Saturday: 9AM – 7PM We’re closed on Sundays'
+    text: 'Mangalore, India'
+  - heading: ''
+    text: ''
 ---
-I would love you to get in touch with me for collaboration in ideas.
+I would love you to get in touch with me for collaboration on ideas.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
